@@ -1,6 +1,6 @@
 {
-  "name": "Preact PWA",
-  "short_name": "Preact PWA",
+  "name": "EAV",
+  "short_name": "EAV",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
